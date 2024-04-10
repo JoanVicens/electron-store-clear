@@ -1,7 +1,7 @@
 {
   "name": "electron-store-clear",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demo to illustrate the behavior of electron-store on clear ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
